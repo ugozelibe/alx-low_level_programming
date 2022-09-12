@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Printing in C language
+ * main  Printing in C language
  *
  * Return: Always 0 (Accurate)
  */
