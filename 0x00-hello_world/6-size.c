@@ -1,5 +1,5 @@
-vim 6-size.c
 #include <stdio.h>
+
 /**
  * main - Prints the size of many var types
  *
